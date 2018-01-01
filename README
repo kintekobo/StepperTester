@@ -1,0 +1,3 @@
+This is a program to help configure stepper motor/MicroStepper driver modules.
+It allows for changing things like the step pulse width and inter pulse period as well as direction etc.
+Running on an Arduino UNO or similar it is command driven from the serial port.
