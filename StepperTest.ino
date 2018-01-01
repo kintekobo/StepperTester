@@ -159,7 +159,7 @@ void printValues()
     Serial.println( "--------------------------------------------" );
 }
 
-void _serialEvent()
+void __serialEvent()
 {
     int i = Serial.peek();
     long l = Serial.parseInt();
